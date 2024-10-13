@@ -1,0 +1,18 @@
+[viewer]
+    Title = "Go博客"
+    Description = "描述"
+    Logo = "/resource/images/logo.png"
+    Navigation = ["首页", "/", "Go语言", "/golang", "归档", "/pigeonhole", "关于", "/about"]
+    Bilibili = "https://www.baidu.com"
+    Zhihu = "https://www.zhihu.com"
+    Avatar = "https://i2.hdslb.com/bfs/face/9555608c8626e212f2e8c4c125187856a7c8a56e.jpg@240w_240h_1c_1s_!web-avatar-nav.avif"
+    UserName = "大神"
+    UserDesc = "用户描述"
+[system]
+    CdnURL = ""
+    QiniuAccessKey = "替换自己的"
+    QiniuSecretKey = "替换自己的"
+    Valine = true
+    ValineAppid = "替换"
+    ValineAppkey = "替换"
+    ValineSecretURL = "替换"
